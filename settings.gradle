@@ -1,0 +1,2 @@
+rootProject.name='CheerUp'
+include ':app'

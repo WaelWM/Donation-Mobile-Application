@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">41218900687-cg815kpn5k31bct492nqect6t9eam3r2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">41218900687</string>
+    <string name="google_api_key" translatable="false">AIzaSyBw5NH8cduyxLaaTaFD9-XdNZChtreTXaU</string>
+    <string name="google_app_id" translatable="false">1:41218900687:android:179daa10327cd5cc7c2dba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBw5NH8cduyxLaaTaFD9-XdNZChtreTXaU</string>
+    <string name="google_storage_bucket" translatable="false">cheerup-1028d.appspot.com</string>
+    <string name="project_id" translatable="false">cheerup-1028d</string>
+</resources>

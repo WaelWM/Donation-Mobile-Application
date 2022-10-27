@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">CheerUp</string>
+    <string name="register_success">You are registered on the system now!</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_donation">Donation</string>
+    <string name="title_events">Events</string>
+    <string name="title_redeem">Redeem</string>
+    <string name="title_community">Community</string>
+    <string name="title_donate_money">Donate Money</string>
+    <string name="Donate_money">Donate Money</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="event1">Help people in need event.</string>
+    <string name="event2">Fundraising online Event.</string>
+    <string name="event3">Fundraising hybrid event.</string>
+    <string name="event4">Sport Fundraising event.</string>
+    <string name="event5">Online Gaming fundraising event.</string>
+    <string name="select_Center">Select Donation Center</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_profile">Profile</string>
+    <string name="select_donation_center">Donation Center</string>
+    <string name="item_accepted_by_center">Items Accepted by Center</string>
+    <string name="type">Type in Community</string>
+    <string name="send">Send</string>
+    <string name="Select_donation_center">Select Donation Center:</string>
+    <string name="enter_donation_amount">Enter Donation Amount</string>
+    <string name="proceed_to_payment">Proceed to Payment</string>
+    <string name="sugguest_center_to_add">Sugguest Center to add</string>
+    <string name="sugguest_charity_to_add">Sugguest Charity to add</string>
+    <string name="decription_optional">Decription (Optional)</string>
+    <string name="view_items_accepted_by_center">View items accepted by center</string>
+    <string name="Submit">Submit</string>
+    <string name="deliver_item_by_your_own">Deliver item by your own</string>
+    <string name="request_delivery">Request Delivery</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="Cheerup">CheerUp</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="Todo">TODO</string>
+    <string name="please_enter_your_card_details">Please Enter Your Card Details</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="card_type">Card Type</string>
+    <string name="master_card">Master Card</string>
+    <string name="visa">Visa</string>
+    <string name="enter_card_cvv">Enter Card CVV</string>
+    <string name="donate">Donate</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="cheerup">CheerUp</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account_login">Already have an Account? Login</string>
+    <string name="first_name">First Name</string>
+    <string name="address">Address</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_suggested_center_name">Enter Suggested Center Name:</string>
+    <string name="submit">Submit</string>
+    <string name="donation_center">Donation Center</string>
+    <string name="city">City</string>
+    <string name="view">View</string>
+    <string name="Todo2">TODO</string>
+    <string name="fundraising_event">Fundraising Event</string>
+    <string name="online">Online</string>
+    <string name="View">View</string>
+    <string name="todo">TODO</string>
+    <string name="donate_money">Donate Money</string>
+    <string name="donate_other_stuff">Donate Other Stuff</string>
+    <string name="donation_centers">Donation Centers</string>
+    <string name="coins_0">Coins: 10</string>
+    <string name="view_recent_events">View Events</string>
+    <string name="no_redeemable_items">There are no redeemable items yet! You will be notified when items are added.</string>
+    <string name="registered_events">Registered Events</string>
+    <string name="logout">Logout</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="view_profile">View Profile</string>
+    <string name="Add">TODO</string>
+    <string name="ProfilePhoto">TODO</string>
+    <string name="Adding">TODO</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_your_email_address">Enter Your Email Address</string>
+    <string name="rest_password">Rest Password</string>
+    <string name="ProfileIcon">TODO</string>
+
+
+    <string-array name="donation_centers">
+        <item>Lighthouse Children Welfare</item>
+        <item>Yayasan Chow Kit</item>
+        <item>Hospis Malaysia</item>
+    </string-array>
+
+
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+        <item>2027</item>
+        <item>2028</item>
+        <item>2029</item>
+        <item>2030</item>
+    </string-array>
+
+</resources>

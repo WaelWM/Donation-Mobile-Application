@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_donation_centers.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_donation_centers.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_donation.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\fragment_donation.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_donate_money.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_donate_money.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_navigation.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_events.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_suggestion.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_suggestion.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_donate_other_stuff.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_donate_other_stuff.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_payment.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\center_list.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\center_list.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_redeem.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\fragment_redeem.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\event_list.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\event_list.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_registered_events.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_registered_events.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_events.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\activity_events.xml"
+    },
+    {
+        "merged": "D:\\CheerUp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_community.xml",
+        "source": "D:\\CheerUp\\app\\src\\main\\res\\layout\\fragment_community.xml"
+    }
+]

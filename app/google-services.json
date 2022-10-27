@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41218900687",
+    "project_id": "cheerup-1028d",
+    "storage_bucket": "cheerup-1028d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41218900687:android:179daa10327cd5cc7c2dba",
+        "android_client_info": {
+          "package_name": "com.example.cheerup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41218900687-cg815kpn5k31bct492nqect6t9eam3r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw5NH8cduyxLaaTaFD9-XdNZChtreTXaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41218900687-cg815kpn5k31bct492nqect6t9eam3r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
