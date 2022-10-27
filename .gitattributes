@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.java linguist-detectable=false
-*.3 linguist-language=text
+*.3 linguist-detectable=false
